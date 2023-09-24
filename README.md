@@ -1,3 +1,5 @@
+# THIS STILL NEEDS UPDATING AS WE LEARN HOW TO USE GITHUB
+
 # Apriltag-Presentation
 April tag implementation hosted by 5039 DevilBots
 
